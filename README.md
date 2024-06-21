@@ -48,13 +48,12 @@ Set Up the Database
 
 
 
-Contribution
+## Contribution
 
 Feel free to fork the project and submit your contributions via pull requests.
-License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
 
-
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 # api-amigos
