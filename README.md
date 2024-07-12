@@ -56,4 +56,4 @@ Feel free to fork the project and submit your contributions via pull requests.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-# api-amigos
+# supply-requisition-system
