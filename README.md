@@ -28,8 +28,8 @@ Installation Steps
 
     Start by cloning the repository to your local machine:
 
-git clone https://github.com/vann-snow/api-amigos.git
-cd api-amigos
+git clone https://github.com/vann-snow/supply-requisition-system.git
+cd supply-requisition-system
 
 Set Up the Database
 
